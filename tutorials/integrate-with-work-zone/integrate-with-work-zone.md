@@ -65,7 +65,7 @@
 
      <img src="./integrate_launchpad_7.png"/>
 
-17. Enter the site name as **Incident Management Site** and choose **Create**.
+17. Enter the site name as **Incident Management Site-<enter a unique value eg.,ns01>** and choose **Create**.
 
      <img src="./integrate_launchpad_71.png"/>
 
